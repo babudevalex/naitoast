@@ -1,2 +1,2 @@
 # naitoast
-Nairobi Toastmasters Website
+Website supporting payments, role selection, email and forum.
